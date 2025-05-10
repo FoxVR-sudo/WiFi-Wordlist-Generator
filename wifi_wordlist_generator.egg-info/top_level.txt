@@ -1,0 +1,2 @@
+cli
+wifi_wordlist
